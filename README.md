@@ -2,13 +2,13 @@
   <img src="https://gawshindes.github.io/assets/img/logo.png">
 </p>
 
-[why](#why-are-we-doing-it)
+[why](#why-are-we-doing-it) [place2](#place-2) [title](#title)
 
 <details open>
 <summary>Why are we doing it</summary>
 
 # Why are we doing it
-<br>Working as a consulting company, we have build revolutionary products for our customers. We always have been considered as technology catalyst for our customers. We decided long ago that we would pivot the moment we find a platform which we can build product on it. Many platforms appeared to be the best candidates, but we could not move quickly, for example big data, cloud, containerization etc. We saw them getting big while we were building talent and technology for the platform, but we feel nothing is bigger than Blockchain and following are the reasons why we are doing it
+Working as a consulting company, we have build revolutionary products for our customers. We always have been considered as technology catalyst for our customers. We decided long ago that we would pivot the moment we find a platform which we can build product on it. Many platforms appeared to be the best candidates, but we could not move quickly, for example big data, cloud, containerization etc. We saw them getting big while we were building talent and technology for the platform, but we feel nothing is bigger than Blockchain and following are the reasons why we are doing it
 
 - We have subject matter expertise in area of blockchain and we have willingness to learn, pivot and implement a cutting edge product.
 - We already have a deployable talent which we can train and built on this platform.
