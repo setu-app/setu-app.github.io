@@ -2,6 +2,8 @@
   <img src="https://gawshindes.github.io/assets/img/logo.png">
 </p>
 
+[why](#why-are-we-doing-it)
+
 <details open>
 <summary>Why are we doing it</summary>
 
@@ -29,4 +31,18 @@ Well, you asked for it!
 &lt;&#47;details&gt;
 </pre>
 </details>
+
+## Title
+
+### Place 1
+
+Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
+
+### Place 2
+
+Place one has the fun times of linking here, but I can also link back [here](#place-1).
+
+### Place's 3: other example
+
+Place one has the fun times of linking here, but I can also link back [here](#places-3-other-example).
 
