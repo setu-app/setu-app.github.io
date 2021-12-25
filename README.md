@@ -2,7 +2,7 @@
   <img src="https://gawshindes.github.io/assets/img/logo.png">
 </p>
 
-[why](#why-are-we-doing-it)  [place2](#place-2)  [title](#title) [idea] (#our-idea-for-nvc)
+[why](#why-are-we-doing-it)  [place2](#place-2)  [title](#title) [idea](#our-idea-for-nvc)
 
 <details open>
 <summary>Why are we doing it</summary>
