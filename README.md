@@ -2,7 +2,12 @@
   <img src="https://gawshindes.github.io/assets/img/logo.png">
 </p>
 
-[intro](#intro)  [the idea](#enter-setu)
+
+<div align="right">
+
+[intro](#intro) | [idea for nvc](#enter-setu) | [join us](#lets-build-it) | [team](#the-team-right-now)
+  
+</div>
 
 # Intro
 
@@ -16,3 +21,9 @@ infrastructure, most transaction data is publicly available, limiting the extent
 # Enter Setu
 
 In addition, the success of augmented platforms suggests that differentiation is highly valuable to both buyers and sellers. We’re already seeing that there’s strong demand for multiple coexisting NFT marketplaces, each focused on a different domain and offering specialized tools to help their partners succeed. Even within industries, multiple platforms can coexist, as long as they differentiate in the tools and experiences that they provide. Setu wants to connect these marketplaces and provide tools to not just create/MINT NFTs but also distribute them to various marketplaces. We want to be able to provide tools, platforms and reduce the burden of publishing, dropping/scheduling, running campaigns, collaborating, etc. We aim to provide analytics, engagement, and token diversity (Sol, ETH, Tezos)
+
+# Let's Build It
+
+We need your help
+
+# The Team right now
