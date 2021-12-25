@@ -2,47 +2,17 @@
   <img src="https://gawshindes.github.io/assets/img/logo.png">
 </p>
 
-[why](#why-are-we-doing-it)  [place2](#place-2)  [title](#title) [idea](#our-idea-for-nvc)
+[intro](#intro)  [the idea](#enter-setu)
 
-<details open>
-<summary>Why are we doing it</summary>
+# Intro
 
-# Why are we doing it
-Working as a consulting company, we have build revolutionary products for our customers. We always have been considered as technology catalyst for our customers. We decided long ago that we would pivot the moment we find a platform which we can build product on it. Many platforms appeared to be the best candidates, but we could not move quickly, for example big data, cloud, containerization etc. We saw them getting big while we were building talent and technology for the platform, but we feel nothing is bigger than Blockchain and following are the reasons why we are doing it
+Monetizing Digital Content is a massive challenge and requires not just understanding of the marketplace but also the distribution of the content. With more and more marketplaces created, and in modern media ownership in the modern age is challenge distribution is key to being relevant. Blockchain provides a new alternative to a traditional content platform such as FB & Google. 
 
-- We have subject matter expertise in area of blockchain and we have willingness to learn, pivot and implement a cutting edge product.
-- We already have a deployable talent which we can train and built on this platform.
-- Blockchain/Nft platform is still nascent and we would have first movers advantage.
-- As core technologist, We will build modules and pipelines for future usecases.
-</details>
+Blockchain/NFT has grown beyond the hype, Just in the Year 2021 it's grown to $23 Billion, In response to this massive growth, both individual creators and firms as wide-ranging as retail, music, entertainment, consumer products, fashion, and more have begun actively exploring ways to engage with the world of NFTs.
 
----
+Unlike the traditional aggregators, NFT marketplaces are inherently open and would always be innovating through newer blockchain. Since NFTs are built on a fully public blockchain
+infrastructure, most transaction data is publicly available, limiting the extent to which these platforms can build the kinds of data moats that lead to monopolies
 
-<details>
-<summary>Our Idea for NVC</summary>
-<br>
-Well, you asked for it!
-<br><br>
-<pre>
-&lt;details open&gt;
-&lt;summary&gt;Want to ruin the surprise?&lt;&#47;summary&gt;
-&lt;br&gt;
-Well, you asked for it!
-&lt;&#47;details&gt;
-</pre>
-</details>
+# Enter Setu
 
-## Title
-
-### Place 1
-
-Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
-
-### Place 2
-
-Place one has the fun times of linking here, but I can also link back [here](#place-1).
-
-### Place's 3: other example
-
-Place one has the fun times of linking here, but I can also link back [here](#places-3-other-example).
-
+In addition, the success of augmented platforms suggests that differentiation is highly valuable to both buyers and sellers. We’re already seeing that there’s strong demand for multiple coexisting NFT marketplaces, each focused on a different domain and offering specialized tools to help their partners succeed. Even within industries, multiple platforms can coexist, as long as they differentiate in the tools and experiences that they provide. Setu wants to connect these marketplaces and provide tools to not just create/MINT NFTs but also distribute them to various marketplaces. We want to be able to provide tools, platforms and reduce the burden of publishing, dropping/scheduling, running campaigns, collaborating, etc. We aim to provide analytics, engagement, and token diversity (Sol, ETH, Tezos)
