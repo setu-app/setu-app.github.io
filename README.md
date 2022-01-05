@@ -2,14 +2,9 @@
   <img src="https://gawshindes.github.io/assets/img/logo.png">
 </p>
 
+[intro](#intro) | [idea for nvc](#enter-setu) | [join us](#lets-build-it) | [team](#the-team-right-now)
 
-<div align="right"> 
-  
-
-[intro](#intro) |  [idea for nvc](#enter-setu) |  [join us](#lets-build-it) |  [team](#the-team-right-now)
-  
-
-</div>
+___
 
 # Intro
 
