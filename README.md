@@ -5,7 +5,9 @@
 
 <div align="right"> 
   
-[intro](#intro) |  [idea for nvc](#enter-setu) |  [join us](#lets-build-it) |  [team](#the-team-right-now) 
+
+[intro](#intro) |  [idea for nvc](#enter-setu) |  [join us](#lets-build-it) |  [team](#the-team-right-now)
+  
 
 </div>
 
