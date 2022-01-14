@@ -23,4 +23,4 @@ In addition, the success of augmented platforms suggests that differentiation is
 
 https://recondite-port-b6c.notion.site/Founding-Team-Roles-9efa581a8e024c8f87bc04ffb9a05908
 
-# The Team right now
+
