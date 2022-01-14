@@ -19,8 +19,8 @@ infrastructure, most transaction data is publicly available, limiting the extent
 
 In addition, the success of augmented platforms suggests that differentiation is highly valuable to both buyers and sellers. We’re already seeing that there’s strong demand for multiple coexisting NFT marketplaces, each focused on a different domain and offering specialized tools to help their partners succeed. Even within industries, multiple platforms can coexist, as long as they differentiate in the tools and experiences that they provide. Setu wants to connect these marketplaces and provide tools to not just create/MINT NFTs but also distribute them to various marketplaces. We want to be able to provide tools, platforms and reduce the burden of publishing, dropping/scheduling, running campaigns, collaborating, etc. We aim to provide analytics, engagement, and token diversity (Sol, ETH, Tezos)
 
-# Let's Build It
+# Founding Team Roles 
 
-We need your help
+https://recondite-port-b6c.notion.site/Founding-Team-Roles-9efa581a8e024c8f87bc04ffb9a05908
 
 # The Team right now
