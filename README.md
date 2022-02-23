@@ -119,7 +119,7 @@ We believe in the NFT is not just a novel asset class but a technology that woul
 
 Our team has a diverse skillset to build and run Setu.
 
-[Bharat Bhate](https://www.linkedin.com/in/bhate/), the CEO, has over 11 years of experience as a founder and CEO of a technology consulting company with 35+ million annual revenue. His technical and leadership experience would help Setu in operations and execution.
+[Bharat Bhate](https://www.linkedin.com/in/bhate/)<a href="https://www.linkedin.com/in/bhate/" target="_blank">Bharat Bhate</a>, the CEO, has over 11 years of experience as a founder and CEO of a technology consulting company with 35+ million annual revenue. His technical and leadership experience would help Setu in operations and execution.
 
 [Siddharth](https://www.linkedin.com/in/gawshinde/), CTO, brings technology experience and has 16 years of experience working in software technologies and products. He is working as COO and CTO with Bharat in the tech consulting company for the last eight years, and they also founded an event ticketing platform in the past. He is Working on POC and MVP of Setu and would work as a leader to the future tech team.
 
