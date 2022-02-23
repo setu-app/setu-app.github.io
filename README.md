@@ -119,13 +119,13 @@ We believe in the NFT is not just a novel asset class but a technology that woul
 
 Our team has a diverse skillset to build and run Setu.
 
-[Bharat Bhate](https://www.linkedin.com/in/bhate/)<a href="https://www.linkedin.com/in/bhate/" target="_blank">Bharat Bhate</a>, the CEO, has over 11 years of experience as a founder and CEO of a technology consulting company with 35+ million annual revenue. His technical and leadership experience would help Setu in operations and execution.
+<a href="https://www.linkedin.com/in/bhate/" target="_blank">Bharat Bhate</a>, the CEO, has over 11 years of experience as a founder and CEO of a technology consulting company with 35+ million annual revenue. His technical and leadership experience would help Setu in operations and execution.
 
-[Siddharth](https://www.linkedin.com/in/gawshinde/), CTO, brings technology experience and has 16 years of experience working in software technologies and products. He is working as COO and CTO with Bharat in the tech consulting company for the last eight years, and they also founded an event ticketing platform in the past. He is Working on POC and MVP of Setu and would work as a leader to the future tech team.
+<a href="https://www.linkedin.com/in/gawshinde/" target="_blank">Siddharth</a>, CTO, brings technology experience and has 16 years of experience working in software technologies and products. He is working as COO and CTO with Bharat in the tech consulting company for the last eight years, and they also founded an event ticketing platform in the past. He is Working on POC and MVP of Setu and would work as a leader to the future tech team.
 
-[Arpita Das](https://www.linkedin.com/in/arpita-das-26197727/), Head of Product Management, has a total of 5 years of experience in portfolio and risk management with Morgan Stanley and Credit Suisse. Her experience in risk modeling and algorithm designing put her in a unique position to identify Setu’s challenges at the macro and product levels and steer the firm accordingly.
+<a href="https://www.linkedin.com/in/arpita-das-26197727/" target="_blank">Arpita Das</a>, Head of Product Management, has a total of 5 years of experience in portfolio and risk management with Morgan Stanley and Credit Suisse. Her experience in risk modeling and algorithm designing put her in a unique position to identify Setu’s challenges at the macro and product levels and steer the firm accordingly.
 
-[Steve Yang](https://www.linkedin.com/in/shuoyuan-steve-yang-94a280108/), Head of the strategy, has worked as an investment analyst covering tech companies and a product manager for fintech products. He has a comprehensive understanding of business strategies for tech startups to compete in fast-changing markets like the NFT market. He is joining setu from February 1st.
+<a href="https://www.linkedin.com/in/shuoyuan-steve-yang-94a280108/" target="_blank">Steve Yang</a>, Head of the strategy, has worked as an investment analyst covering tech companies and a product manager for fintech products. He has a comprehensive understanding of business strategies for tech startups to compete in fast-changing markets like the NFT market. He is joining setu from February 1st.
 
 We are currently looking for a **Head of Blockchain security** and a set of **advisors/Mentors** for our team.
 
