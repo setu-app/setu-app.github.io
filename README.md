@@ -2,7 +2,7 @@
   <img src="https://gawshindes.github.io/assets/img/logo.png">
 </p>
 
-[intro](#What-are-we-building) | [The Idea](#the-problem) | [Potential Market](#potential-market) | [Progress To Date](#progress-to-date) | [Competition](#competition) | [Revenue Model](#revenue-model) | [Operations](#operations) | [The Team](#the-team)
+[Intro](#What-are-we-building) | [The Idea](#the-problem) | [Potential Market](#potential-market) | [Progress To Date](#progress-to-date) | [Competition](#competition) | [Revenue Model](#revenue-model) | [Operations](#operations) | [The Team](#the-team)
 
 
 ___
