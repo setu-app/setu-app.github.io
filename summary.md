@@ -2,7 +2,8 @@
   <img src="https://gawshindes.github.io/assets/img/logo.png">
 </p>
 
-[intro](#intro) | [The Idea](#the-idea) | [join us](#founding-team-roles) | [team](#the-team-right-now)
+[intro](#What-are-we-building) | [The Idea](#the-problem) | [Potential Market](#potential-market) | [Progress To Date](#progress-to-date) | [Competition](#competition) | [Revenue Model](#revenue-model) | [# Operations](#operations) | [The Team](#the-team)
+
 
 ___
 
@@ -114,9 +115,9 @@ We believe in the NFT is not just a novel asset class but a technology that woul
 * Total Transaction per Customer = 4
 * Total Monthly Fee = $30k to $60k
 
-# Management Team
+# The Team
 
-Our management team has a diverse skillset to build and run Setu.
+Our team has a diverse skillset to build and run Setu.
 
 [Bharat Bhate](https://www.linkedin.com/in/bhate/), the CEO, has over 11 years of experience as a founder and CEO of a technology consulting company with 35+ million annual revenue. His technical and leadership experience would help Setu in operations and execution.
 
